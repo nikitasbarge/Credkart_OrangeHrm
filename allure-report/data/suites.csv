@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 03 12:23:18 IST 2023","Thu Aug 03 12:23:35 IST 2023","17739","Test_Case","test_login_OrangeHRM","Test_OranfeHRm_001","","","test_OrangeHRm_login_001",""
+"passed","Thu Aug 03 12:23:17 IST 2023","Thu Aug 03 12:23:20 IST 2023","2337","Test_Case","test_Login","Test_credkart_001","","","test_credkart_login_001",""

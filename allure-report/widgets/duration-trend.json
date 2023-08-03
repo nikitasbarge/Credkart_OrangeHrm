@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/Credkart_OrangeHrm_My_Project/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 17899
+  }
+} ]

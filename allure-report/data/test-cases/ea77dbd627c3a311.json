@@ -1,0 +1,104 @@
+{
+  "uid" : "ea77dbd627c3a311",
+  "name" : "test_OrangeHRm_login_001",
+  "fullName" : "Test_Case.test_login_OrangeHRM.Test_OranfeHRm_001#test_OrangeHRm_login_001",
+  "historyId" : "9ade34501554f64899a4fc9a6c174318",
+  "time" : {
+    "start" : 1691043454689,
+    "stop" : 1691043471024,
+    "duration" : 16335
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1691043447987,
+      "stop" : 1691043447987,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1691043447987,
+      "stop" : 1691043454686,
+      "duration" : 6699
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9f2d38772d96309b",
+      "name" : "stdout",
+      "source" : "9f2d38772d96309b.txt",
+      "type" : "text/plain",
+      "size" : 24
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Test_Case"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_OrangeHRM"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_OranfeHRm_001"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-QRGRBTF"
+  }, {
+    "name" : "thread",
+    "value" : "14600-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Case.test_login_OrangeHRM"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea77dbd627c3a311.json",
+  "parameterValues" : [ ]
+}

@@ -1,1 +1,1 @@
-pytest -v -s -n=2 --html=Html_Reports/my_html_report1.html --alluredir="D:\automation testing\PYCHARM\Credkart_My_Project\allure-results"
+pytest -v --html=Html_Reports/my_report4.html --alluredir="D:\automation testing\PYCHARM\Credkart_My_Project\allure-results" -n=2 Test_Case --browser chrome

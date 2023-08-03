@@ -1,0 +1,156 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-QRGRBTF",
+    "children" : [ {
+      "name" : "15876-MainThread",
+      "children" : [ {
+        "name" : "test_OrangeHRm_login_001",
+        "uid" : "8389d7cb1bf5f62f",
+        "parentUid" : "acb4ed385ac7011771434c04a72caf85",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691045598104,
+          "stop" : 1691045615843,
+          "duration" : 17739
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "acb4ed385ac7011771434c04a72caf85"
+    }, {
+      "name" : "13112-MainThread",
+      "children" : [ {
+        "name" : "test_credkart_login_001",
+        "uid" : "ee5653d80baf4f9c",
+        "parentUid" : "3ee034311b49bc661f618dd0c3d83118",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691044692750,
+          "stop" : 1691044695016,
+          "duration" : 2266
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ee034311b49bc661f618dd0c3d83118"
+    }, {
+      "name" : "5380-MainThread",
+      "children" : [ {
+        "name" : "test_credkart_login_001",
+        "uid" : "8c18107bbc059779",
+        "parentUid" : "1821bbe32420a458df917fcb578ca5e6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691045597944,
+          "stop" : 1691045600281,
+          "duration" : 2337
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1821bbe32420a458df917fcb578ca5e6"
+    }, {
+      "name" : "14600-MainThread",
+      "children" : [ {
+        "name" : "test_OrangeHRm_login_001",
+        "uid" : "ea77dbd627c3a311",
+        "parentUid" : "2b440052d6b9b394a2d9584877875e81",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691043454689,
+          "stop" : 1691043471024,
+          "duration" : 16335
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b440052d6b9b394a2d9584877875e81"
+    }, {
+      "name" : "8956-MainThread",
+      "children" : [ {
+        "name" : "test_credkart_login_001",
+        "uid" : "2f8849bfdfebc4fd",
+        "parentUid" : "509da67f7dd2845385b04a17d147eb8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691043454597,
+          "stop" : 1691043456586,
+          "duration" : 1989
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "509da67f7dd2845385b04a17d147eb8f"
+    }, {
+      "name" : "376-MainThread",
+      "children" : [ {
+        "name" : "test_credkart_login_001",
+        "uid" : "b9844661ff489044",
+        "parentUid" : "4fff8adeeba0ea8f3d095c2f6f80b9a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691044843429,
+          "stop" : 1691044845403,
+          "duration" : 1974
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4fff8adeeba0ea8f3d095c2f6f80b9a5"
+    }, {
+      "name" : "11592-MainThread",
+      "children" : [ {
+        "name" : "test_OrangeHRm_login_001",
+        "uid" : "55b9da8ef367b641",
+        "parentUid" : "3915edbf0cb4cc482736059c293bd96b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1691044843066,
+          "stop" : 1691044865486,
+          "duration" : 22420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3915edbf0cb4cc482736059c293bd96b"
+    } ],
+    "uid" : "e84f163b634f8e59278728a5d50cdc4a"
+  } ]
+}
